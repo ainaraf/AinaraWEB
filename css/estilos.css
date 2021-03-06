@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+blockquote p img {
+    text-align: left;
+
+}
+#ima {
+}
+#tortuga {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    float: right;
+}
+#imagen {
+    margin-bottom: 12px;
+    float: left;
+    margin-right: 10px;
+}
+#imagen1 {
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    float: left;
+}
+#fondo {
+    margin-left: 15px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    float: right;
+}
